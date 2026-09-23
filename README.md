@@ -1,3 +1,9 @@
+> **This repository has moved to [usnistgov/sagegui](https://github.com/usnistgov/sagegui).**
+> SageGUI is now maintained there, as the NIST fork of
+> [jspaezp/sagegui](https://github.com/jspaezp/sagegui). Releases continue there, tagged
+> `nist-vX.Y.Z`. This repository's releases v0.6.0 to v0.9.0 are there as nist-v0.6.0 to
+> nist-v0.9.0, with the same binaries. This repository is archived and read-only.
+
 # SageGUI
 
 A graphical interface for [Sage](https://github.com/lazear/sage), the proteomics search engine by [Michael Lazear](https://github.com/lazear). Unofficial; not affiliated with the Sage project.
